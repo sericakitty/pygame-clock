@@ -1,4 +1,4 @@
-# pygameclock
+# Pygame-clock
 
 This is a clock made with python and pygame-module.
 
